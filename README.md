@@ -114,7 +114,7 @@ Requirements
 1. Clone the repository
 bash
 
-git clone https://github.com/SouthVirginia19/codescope.git
+git clone https://github.com/SouthVirginia19/CodeScope---CDV
 cd codescope/backend
 
 2. Create a virtual environment
